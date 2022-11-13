@@ -352,7 +352,8 @@ h2{
 }
 
 #service .service-area .content-area{
-    padding:40px;   
+    padding:40px;
+    color: #000000;
 }
 
 #service .service-area .content-area h3{
