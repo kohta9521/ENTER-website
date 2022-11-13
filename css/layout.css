@@ -3,13 +3,14 @@
 
 body{
     font-family:"游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
-	color: #333;
+	color: #00ff00;
 	font-size:1rem;
 	line-height:1.85;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-text-size-adjust: 100%; 
 	word-wrap: break-word;
+    background-color: #000000;
 }
 
 @media screen and (max-width:768px) {
@@ -27,7 +28,7 @@ ul{
 }
 
 a{
-	color: #333;
+	color: #00ff00;
 	text-decoration: none;
     outline: none;
 }
@@ -58,7 +59,7 @@ h3 span,
     font-size: 1.2rem;
     letter-spacing: 0.3em;
     text-transform: uppercase;
-    color: #eb6100;
+    color: #00ff00;
 }
 
 /* g-nav */
@@ -66,14 +67,14 @@ h3 span,
 #g-nav.panelactive li:last-child a{
     margin: 30px 0 0 0;
     padding: 10px 20px;
-    border: 2px solid #333;
+    border: 2px solid #00ff00;
     white-space: nowrap;
 }
 
 /*pc-nav*/
 
 #pc-nav span.bgLRextend::before{
-    background:#333;
+    background:#00ff00;
 }
 
 
@@ -104,7 +105,7 @@ h1{
 
 
 h1 a{
-    color:#eb6100;
+    color: #00ff00;
 }
 
 h2{
@@ -133,7 +134,7 @@ h2{
 
 
 .top-lead span.bgLRextend::before{
-    background:#333;
+    background: #00ff00;
 }
 
 @media screen and (max-width:550px) {
@@ -158,7 +159,7 @@ h2{
 /* topics */
 
 #topics{
-    border-left:3px solid #000;
+    border-left:3px solid #00ff00;
     padding: 0 0 0 20px;
 }
 
@@ -173,7 +174,7 @@ h2{
 }
 
 #topics h2 span.bgLRextend::before{
-    background:#333;
+    background: #00ff00;
 }
 
 .bx-wrapper{
@@ -224,7 +225,7 @@ h2{
 }
 
 #vision h2{
-    color:#eb6100;
+    color: #00ff00;
     margin:0 0 30px 0;
 }
 
@@ -235,7 +236,7 @@ h2{
 
 #vision .vision-lead{
     position: relative;
-    color:#eb6100;
+    color: #00ff00;
     font-size:1.3rem;
     font-weight: bold;
     margin: 0 0 90px 0;
@@ -253,7 +254,7 @@ h2{
     position: absolute;
     bottom:-30px;
     right:0;
-    background:#eb6100;
+    background: #00ff00;
     width:12em;
     height: 3px;
 }
@@ -272,7 +273,7 @@ h2{
 }
 
 #service h2 span.bgLRextend::before{
-    background:#333;
+    background: #00ff00;
 }
 
 
@@ -302,7 +303,7 @@ h2{
     position: absolute;
     width: 70%;
     height: 23em;
-    background:#f3f3f3;
+    background: #00ff00;
     right:10%;
     top:20%;
     z-index: -1;
@@ -320,7 +321,7 @@ h2{
 
 #service .service-area .content{
     width:40%;
-    background:#fff;
+    background: #00ff00;
     box-shadow: 0 0 20px #ccc;
     display: flex;
     justify-content: center;
@@ -351,7 +352,8 @@ h2{
 }
 
 #service .service-area .content-area{
-    padding:40px;   
+    padding:40px;
+    color: #000000;
 }
 
 #service .service-area .content-area h3{
@@ -390,7 +392,7 @@ h2{
 
 #about h2{
     text-align: center;
-    color:#eb6100;
+    color: #00ff00;
     margin:0 0 100px 0;
 }
 
@@ -446,7 +448,7 @@ h2{
 
 
 #faq h2 span.bgLRextend::before{
-    background:#333;
+    background: #00ff00;
 }
 
 .faq-bg{
@@ -464,7 +466,7 @@ h2{
     left:-32%;
     width:100%;
     height:55vh;
-    background:#f3f3f3;
+    background: #00ff00;
     z-index: -1;
 }
 
@@ -504,7 +506,7 @@ h2{
 #contact h2{
     text-align: center;
     margin:0 0 100px 0;
-    color: #eb6101;
+    color:  #00ff00;
 }
 
 @media screen and (max-width:550px) {
@@ -533,7 +535,7 @@ h2{
 #contact .form-list textarea{
 	width:100%;
 	border:1px solid #666;
-	background:#fff;
+	background: #696969;
 	padding: 10px;
 	-webkit-appearance:none;
 	   -moz-appearance:none;
@@ -551,7 +553,7 @@ h2{
 
 #contact input[type='submit']{
    border:2px solid #333;
-    color: #333;
+    color: #00ff00;
     text-align: center;
     padding: 5px 20px;
     width:152px;
@@ -600,7 +602,7 @@ h2{
     padding: 100px 0;
     border-top:1px solid #333;
     text-align: center;
-    background: #fff;
+    background: #00ff00;
     position: relative;
     text-transform: uppercase;
 }
@@ -609,11 +611,11 @@ h2{
     font-weight: bold;
     letter-spacing: 0.3em;
     margin: 0 0 50px 0;
-    color: #666;
+    color: #000000;
 }
 
 #footer small{
-     color:#888;
+     color: #000000;
 }
 
 
