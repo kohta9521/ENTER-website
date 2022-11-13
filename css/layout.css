@@ -534,7 +534,7 @@ h2{
 #contact .form-list textarea{
 	width:100%;
 	border:1px solid #666;
-	background:#fff;
+	background: #696969;
 	padding: 10px;
 	-webkit-appearance:none;
 	   -moz-appearance:none;
@@ -601,7 +601,7 @@ h2{
     padding: 100px 0;
     border-top:1px solid #333;
     text-align: center;
-    background: #fff;
+    background: #00ff00;
     position: relative;
     text-transform: uppercase;
 }
@@ -610,11 +610,11 @@ h2{
     font-weight: bold;
     letter-spacing: 0.3em;
     margin: 0 0 50px 0;
-    color: #666;
+    color: #000000;
 }
 
 #footer small{
-     color:#888;
+     color: #000000;
 }
 
 
