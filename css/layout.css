@@ -620,3 +620,81 @@ h2{
 
 
 
+
+/* entrt area 最後に追加した */
+.entry__content {
+    width:100%;
+    height: 80vh;
+    display: flex;
+}
+.entry__left__box {
+    width: 50%;
+    height: 100%;
+    background-color: #00ff00;
+}
+.entry__left__title {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    color: #000000;
+}
+.entry__right__box {
+    text-align: left;
+    width: 50%;
+}
+.entry__subtitle {
+    color: #00ff00;
+    font-size: 2.3rem;
+    margin-bottom: 100px;
+    padding-left: 5%;
+}
+.entry__cont {
+    font-size: 1.2rem;
+    margin-bottom: 100px;
+    padding-left: 5%;
+}
+.entry__btn {
+    width: 20%;
+    height: 3%;
+    color: #000000;
+    padding-left: 5%;
+}
+.entry__btn:hover {
+    background-color: #00ff10;
+}
+.entry__btn a {;
+}
+
+@media screen and (max-width:768px) {
+    .entry__content {
+        width:100%;
+        height: 100vh;
+        display: block;
+    }
+    .entry__left__box {
+        width: 100%;
+        height: 30%;
+    }
+    .entry__right__box {
+        width: 100%;
+        height: 60%;
+    }
+        
+}
+
+@media screen and (max-width:550px) {
+    .entry__content {
+        width:100%;
+        height: 100vh;
+        display: block;
+    }
+    .entry__left__box {
+        width: 100%;
+        height: 30%;
+    }
+    .entry__right__box {
+        width: 100%;
+        height: 60%;
+    }
+}
+
