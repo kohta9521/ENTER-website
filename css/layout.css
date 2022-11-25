@@ -3,7 +3,7 @@
 
 body{
     font-family:"游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
-	color: #00ff00;
+	color: #ffffff;
 	font-size:1rem;
 	line-height:1.85;
 	-webkit-font-smoothing: antialiased;
@@ -28,7 +28,7 @@ ul{
 }
 
 a{
-	color: #00ff00;
+	color: #ffffff;
 	text-decoration: none;
     outline: none;
 }
@@ -59,7 +59,7 @@ h3 span,
     font-size: 1.2rem;
     letter-spacing: 0.3em;
     text-transform: uppercase;
-    color: #00ff00;
+    color: #ffffff;
 }
 
 /* g-nav */
@@ -67,7 +67,7 @@ h3 span,
 #g-nav.panelactive li:last-child a{
     margin: 30px 0 0 0;
     padding: 10px 20px;
-    border: 2px solid #00ff00;
+    border: 2px solid #ffffff;
     white-space: nowrap;
 }
 
