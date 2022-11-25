@@ -140,7 +140,7 @@ body.appear #wrapper{
 }
 
 #g-nav li a{
-	color: #00ff00;
+	color: #ffffff;
 	text-decoration: none;
 	padding:10px;
 	display: block;
@@ -148,7 +148,12 @@ body.appear #wrapper{
 	letter-spacing: 0.1em;
 	font-weight: bold;
 }
+#g-nav li a:hover {
+	color: #00ff00;
+	font-size: 1.5rem;
+	transition: 1s;
 
+}
 
 
 .openbtn{
