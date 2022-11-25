@@ -259,7 +259,7 @@ body.appear #wrapper{
 #pc-nav li a{
 	display: block;
 	text-decoration: none;
-	color: #00ff00;
+	color: #ffffff;
 	padding:0 15px;
 	transition:all 0.3s;
 }

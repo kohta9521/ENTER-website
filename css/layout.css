@@ -51,6 +51,7 @@ h3 span,
 #footer{
     font-family: 'Lato', sans-serif;
     letter-spacing: 0.1em;
+    color: #ffffff;
 }
 
 /* splash */
@@ -69,6 +70,7 @@ h3 span,
     padding: 10px 20px;
     border: 2px solid #ffffff;
     white-space: nowrap;
+    color: #ffffff;
 }
 
 /*pc-nav*/
@@ -631,7 +633,6 @@ h2{
     width: 50%;
     height: 100%;
     background-color: #00ff00;
-    background-image: '../img/logo.jpg';
 }
 .entry__left__title {
     width: 100%;
@@ -644,7 +645,7 @@ h2{
     width: 50%;
 }
 .entry__subtitle {
-    color: #00ff00;
+    color: #ffffff;
     font-size: 2.3rem;
     margin-bottom: 100px;
     padding-left: 5%;
