@@ -105,7 +105,7 @@ h1{
 
 
 h1 a{
-    color: #00ff00;
+    color: #ffffff;
 }
 
 h2{
@@ -225,7 +225,7 @@ h2{
 }
 
 #vision h2{
-    color: #00ff00;
+    color: #ffffff;
     margin:0 0 30px 0;
 }
 
@@ -236,7 +236,7 @@ h2{
 
 #vision .vision-lead{
     position: relative;
-    color: #00ff00;
+    color: #ffffff;
     font-size:1.3rem;
     font-weight: bold;
     margin: 0 0 90px 0;
@@ -392,7 +392,7 @@ h2{
 
 #about h2{
     text-align: center;
-    color: #00ff00;
+    color: #ffffff;
     margin:0 0 100px 0;
 }
 
@@ -506,7 +506,7 @@ h2{
 #contact h2{
     text-align: center;
     margin:0 0 100px 0;
-    color:  #00ff00;
+    color:  #ffffff;
 }
 
 @media screen and (max-width:550px) {
@@ -553,7 +553,7 @@ h2{
 
 #contact input[type='submit']{
    border:2px solid #333;
-    color: #00ff00;
+    color: #ffffff;
     text-align: center;
     padding: 5px 20px;
     width:152px;
@@ -631,6 +631,7 @@ h2{
     width: 50%;
     height: 100%;
     background-color: #00ff00;
+    background-image: '../img/logo.jpg';
 }
 .entry__left__title {
     width: 100%;
